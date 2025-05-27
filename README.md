@@ -24,7 +24,7 @@ Pump Multi Sell allows you to sell a pump.fun token with up to 20 wallets a sing
 
 ##### [required] [string]
 
-`ca`: Contract address of the pump.fun token to buy.
+`ca`: Contract address of the pump.fun token to sell.
 
 ##### [required] [array]
 
