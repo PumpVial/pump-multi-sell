@@ -28,9 +28,9 @@ Pump Multi Sell allows you to sell a pump.fun token with up to 20 wallets a sing
 
 ##### [required] [array]
 
-`wallets`: Array of up to 20 wallet address objects.
-`string: publicKey`: Wallet address of seller.
-`string: tokenAmount`: Token amount to sell.
+`wallets`: Array of up to 20 wallet address objects.  
+`string: publicKey`: Wallet address of seller.  
+`string: tokenAmount`: Token amount to sell.  
 
 ##### [optional] [string]
 
