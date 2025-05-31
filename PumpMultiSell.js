@@ -39,7 +39,7 @@ const payload = {
 //////////////////////////////// END ////////////////////////////////////////
 
 const sellPumpMulti = async () => {
-  const URL = "https://pumpvial.com/api/pump-multi-sell";
+  const URL = "https://api.pumpvial.com/pump-multi-sell";
 
   try {
     const request = await axios.post(URL, payload, {
